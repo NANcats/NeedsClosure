@@ -14,10 +14,12 @@
   "dependencies": {
     "angular-ui-router": "^0.3.1",
     "body-parser": "^1.5.2",
-    "bcrypt-nodejs": "0.0.3",
+    "bcrypt": "latest",
     "ejs": "^2.4.2",
+    "jwt-simple": "^0.2.0",
     "express": "^4.14.0",
-    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.6",
+    "jquery": "1.9.1",
     "mongodb": "^2.2.1",
     "mongoose": "^4.5.3"
   }
